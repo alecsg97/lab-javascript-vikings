@@ -72,11 +72,6 @@ class War {
     }
     return result;
 
-        // this.Saxon.receiveDamage = this.Viking.strengthNumber;
-
-        // if (this.health === 0){
-        //     this.saxonArmy.pop(Saxon);
-        // }
     }
 
     saxonAttack() {
